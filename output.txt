@@ -1,0 +1,57 @@
+PS C:\drashti\java> javac intdatatype.java
+PS C:\drashti\java> java int1 34 56
+sum= 90
+PS C:\drashti\java> javac floatdatatype.java
+PS C:\drashti\java> java float1 45 67
+sum= 112.0
+PS C:\drashti\java> javac doubledatatype.java
+PS C:\drashti\java> java double1
+sum= 26.7
+PS C:\drashti\java> javac chardatatype.java
+PS C:\drashti\java> java char1
+sum= 162
+PS C:\drashti\java> javac staticmethod.java
+PS C:\drashti\java> java spr
+THIS IS DEMO
+PS C:\drashti\java> javac staticmethod.java
+staticmethod.java:5: error: non-static method demo() cannot be referenced from a static context
+        demo();
+        ^
+1 error
+PS C:\drashti\java> javac staticmethod.java
+PS C:\drashti\java> java spr
+THIS IS DEMO
+PS C:\drashti\java> javac staticmethod.java
+PS C:\drashti\java> java spr
+THIS IS DEMO
+PS C:\drashti\java> javac constructer.java
+PS C:\drashti\java> java spr1
+THIS IS SPR1 CLASS
+THIS IS DEMO
+PS C:\drashti\java> javac constructer.java
+PS C:\drashti\java> java spr1
+THIS IS SPR1 CLASS
+PS C:\drashti\java> javac constructeroverloading.java
+PS C:\drashti\java> javac intdatatype.java
+PS C:\drashti\java> java int1 34 45
+sum= 79
+PS C:\drashti\java> javac floatdatatype.java
+PS C:\drashti\java> java float1 67 89
+sum= 156.0
+PS C:\drashti\java> javac doubledatatype.java
+PS C:\drashti\java> java double1
+sum= 26.7
+PS C:\drashti\java> javac chardatatype.java
+PS C:\drashti\java> java char1
+sum= 162
+PS C:\drashti\java> javac staticmethod.java
+PS C:\drashti\java> java spr
+THIS IS DEMO
+PS C:\drashti\java> javac constructer.java
+PS C:\drashti\java> java spr1
+THIS IS SPR1 CLASS
+THIS IS DEMO
+PS C:\drashti\java> javac constructeroverloading.java
+PS C:\drashti\java> java spr2 drashti
+THIS IS SPR2 CLASS
+NAME= drashti
