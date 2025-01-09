@@ -8,3 +8,10 @@ class bool1
         System.out.println("This is " +a);
     }
 } 
+
+
+
+
+/* PS C:\drashti\java> javac boolean.java
+PS C:\drashti\java> java bool1
+This is false*/
