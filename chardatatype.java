@@ -8,3 +8,11 @@ class char1
         System.out.println("sum= "+(a+b));
     }
 }
+
+
+
+
+/*C:\java>javac char.java
+
+C:\java>java char1
+sum= 162*/
