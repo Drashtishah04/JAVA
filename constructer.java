@@ -13,3 +13,12 @@ class spr1
         System.out.println("THIS IS DEMO");
     }
 }
+
+
+
+
+/*C:\java>javac constructer.java
+
+C:\java>java spr1
+THIS IS SPR1 CLASS
+THIS IS DEMO*/
