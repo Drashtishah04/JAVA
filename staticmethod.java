@@ -9,3 +9,9 @@ class spr
         System.out.println("THIS IS DEMO");
     }
 }
+
+
+/*C:\java>javac static.java
+
+C:\java>java spr
+THIS IS DEMO*/
