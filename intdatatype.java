@@ -8,3 +8,11 @@ class int1
         System.out.println("sum= "+(a+b));
     }
 }
+
+
+
+
+/*C:\java>javac int.java
+
+C:\java>java int1 34 89
+sum= 123*/
