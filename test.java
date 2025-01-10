@@ -5,3 +5,9 @@ class demo
         System.out.println("this is demo");
     }
 }
+
+
+/*C:\java>javac test.java
+
+C:\java>java demo
+this is demo*/
