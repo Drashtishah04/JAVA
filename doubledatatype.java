@@ -8,3 +8,10 @@ class double1
         System.out.println("sum= "+(a+b));
     }
 }
+
+
+
+/*C:\java>javac double.java
+
+C:\java>java double1
+sum= 26.7*/
