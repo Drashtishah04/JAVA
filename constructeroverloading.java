@@ -14,3 +14,12 @@ class spr2
        a=new spr2(s[0]);
     }
 }
+
+
+
+
+/*C:\java>javac constructeroverloading.java
+
+C:\java>java spr2 drashti
+THIS IS SPR1 CLASS
+NAME= drashti*/
